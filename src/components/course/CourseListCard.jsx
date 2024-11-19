@@ -1,4 +1,5 @@
 import Courseitem from "./Courseitem";
+
 function CourseListCard() {
     return (
         <div className="card">
